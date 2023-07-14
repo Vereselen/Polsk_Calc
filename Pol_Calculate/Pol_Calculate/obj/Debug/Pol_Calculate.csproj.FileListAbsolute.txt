@@ -1,0 +1,11 @@
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.csproj.AssemblyReference.cache
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.csproj.SuggestedBindingRedirects.cache
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.Form1.resources
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.Properties.Resources.resources
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.csproj.GenerateResource.cache
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.csproj.CoreCompileInputs.cache
+E:\Proga\Pol_Calculate\Pol_Calculate\bin\Debug\Pol_Calculate.exe.config
+E:\Proga\Pol_Calculate\Pol_Calculate\bin\Debug\Pol_Calculate.exe
+E:\Proga\Pol_Calculate\Pol_Calculate\bin\Debug\Pol_Calculate.pdb
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.exe
+E:\Proga\Pol_Calculate\Pol_Calculate\obj\Debug\Pol_Calculate.pdb

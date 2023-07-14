@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pol_Calculate", "Pol_Calculate\Pol_Calculate.csproj", "{0A549E46-3C98-4886-A106-EBFA8E2D8F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A549E46-3C98-4886-A106-EBFA8E2D8F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A549E46-3C98-4886-A106-EBFA8E2D8F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A549E46-3C98-4886-A106-EBFA8E2D8F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A549E46-3C98-4886-A106-EBFA8E2D8F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4901F0-564F-4A5E-B4E4-AB9015455687}
+	EndGlobalSection
+EndGlobal
